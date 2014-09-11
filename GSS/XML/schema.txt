@@ -1,0 +1,94 @@
+http://www.google.com/cse?cx=000413381448729854219:ixi_y-pwips&client=google-csbe&output=xml_no_dtd&q="白紗"&start=1&searchtype=image&as_filetype=jpg&imgsz=large&as_qdr=y1
+SimpleXMLElement Object
+(
+    [TM] => 0.301918
+    [Q] => "白紗" filetype:jpg
+    [Context] => SimpleXMLElement Object
+        (
+            [title] => 非常婚禮搜尋引擎
+            [total_results] => 0
+        )
+
+    [RES] => SimpleXMLElement Object
+        (
+            [@attributes] => Array
+                (
+                    [EN] => 21
+                    [SN] => 2
+                )
+
+            [M] => 91800
+            [NB] => SimpleXMLElement Object
+                (
+                    [PU] => /images?q=%22%E7%99%BD%E7%B4%97%22+filetype:jpg&client=google-csbe&cx=000413381448729854219:ixi_y-pwips&imgsz=large&as_qdr=y1&hl=zh-TW&boostcse=0&output=xml_no_dtd&ie=UTF-8&oe=UTF-8&tbm=isch&ei=5ZwOVI2_C4v88AWYrIGIDA&start=0&sa=N
+                    [NU] => /images?q=%22%E7%99%BD%E7%B4%97%22+filetype:jpg&client=google-csbe&cx=000413381448729854219:ixi_y-pwips&imgsz=large&as_qdr=y1&hl=zh-TW&boostcse=0&output=xml_no_dtd&ie=UTF-8&oe=UTF-8&tbm=isch&ei=5ZwOVI2_C4v88AWYrIGIDA&start=21&sa=N
+                )
+
+            [RG] => SimpleXMLElement Object
+                (
+                    [@attributes] => Array
+                        (
+                            [SIZE] => 20
+                            [START] => 1
+                        )
+
+                )
+
+            [R] => Array
+                (
+                    [0] => SimpleXMLElement Object
+                        (
+                            [@attributes] => Array
+                                (
+                                    [N] => 2
+                                    [MIME] => image/jpeg
+                                )
+
+                            [RU] => http://verywed.com/forum/expexch/2745932-1.html
+                            [U] => http://s.verywed.com/s1/2013/10/19/1382158507_4404f59b940e620e80bf4a29a3e534aa_big.jpg
+                            [UE] => http://s.verywed.com/s1/2013/10/19/1382158507_4404f59b940e620e80bf4a29a3e534aa_big.jpg
+                            [T] => ch <b>白紗</b>美到無法挑選，pk二選一的抉擇-第1頁-結婚經驗
+                            [RK] => 0
+                            [CRAWLDATE] => 1 天前
+                            [TIMESTAMP] => 20140907-22d3118
+                            [BYLINEDATE] => 1382213139
+                            [S] => ch <b>白紗</b>美到無法挑選，pk二選一
+                            [LANG] => zh-TW
+                            [IMG] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [WH] => 300
+                                            [HT] => 450
+                                            [IID] => ANd9GcRG1_W7orKjsbKKII_cJpDRs4tvEilury3KIXAPsYUTF6AEpTZX9Mmxksg
+                                        )
+
+                                    [SZ] => 29434
+                                    [IN] => SimpleXMLElement Object
+                                        (
+                                        )
+
+                                )
+
+                            [TBN] => SimpleXMLElement Object
+                                (
+                                    [@attributes] => Array
+                                        (
+                                            [TYPE] => 0
+                                            [WH] => 85
+                                            [HT] => 127
+                                            [URL] => http://t1.gstatic.com/images?q=tbn:ANd9GcRG1_W7orKjsbKKII_cJpDRs4tvEilury3KIXAPsYUTF6AEpTZX9Mmxksg
+                                        )
+
+                                )
+
+                            [SIMILAR_IMAGES] => SimpleXMLElement Object
+                                (
+                                    [SI_MSG] => 類似圖片
+                                    [SI_URL] => /search?q=%22%E7%99%BD%E7%B4%97%22+filetype:jpg&client=google-csbe&cx=000413381448729854219:ixi_y-pwips&imgsz=large&as_qdr=y1&hl=zh-TW&boostcse=0&ie=UTF-8&oe=UTF-8&tbm=isch&tbs=simg:CAESgwEJEKMh5_1WRSMEabwsQsIynCBpmCjoIAhIU3CKRGNYSkx6fGdcSig-EH6kZ7xcaIJfq76m7vXXukiYXB7mDFiO62-fcrLYW5dve_1WaCL75uCigIAxIiug-5D40QjA-MELgPlhKVEs0KwiXBJcMlxCW_1JdQgjSPFJRoADCE3L9fjCPS9zg
+                                )
+
+                        )
+                )
+        )
+)
